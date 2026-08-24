@@ -23,13 +23,17 @@ The goal of this assignment was to translate a provided UI design into a respons
 
 The implementation follows the provided desktop and mobile designs.
 
-### Desktop
+### 💻 My Implementation
 
-The desktop layout presents the content and image side-by-side using CSS Grid.
+![Stats Preview Card](preview.jpg)
 
-### Mobile
+### Desktop Reference
 
-The layout changes to a single-column structure on smaller screens, with the image repositioned above the content.
+![Desktop Design](design/desktop-design.jpg)
+
+### Mobile Reference
+
+![Mobile Design](design/mobile-design.jpg)
 
 ## 🛠️ Technologies Used
 
